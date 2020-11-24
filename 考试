@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css">
+        body {
+            background-color: rgb(43, 226, 89);
+            }
+        h1{
+            background: rgb(214, 10, 10);padding: 20px;
+            text-align: center;
+        }
+    h2{
+        text-align: center;
+    }
+
+    }
+            
+        
+        p{
+            background:rgb(238, 25, 60);
+        }
+        p.no1 {
+            background-color: rgb(180, 96, 166); padding: 20px;
+            }
+         span.highlight
+         {
+         background-color:yellow
+         }
+        img{
+             width: 1000px;
+             height: 500px;
+         }
+         
+    </style>
+</head>
+<body background="背景1.jpg">      
+</body>
+<body>
+    <marquee bgcolor="black" behavior="scroll">
+        <font color="white" size="+1">欢迎来到泽慷简洁而明了的美食介绍</font>
+    </marquee>
+
+    
+
+    <h1>我最爱的美食 </h1>
+    <h2><img src="800.jpg" alt=""></h2>
+    <h2><img src="900.jpg" alt=""></h2>
+    
+    <p class="no1">火锅（Hot Pot），古称“古董羹”，因食物投入沸水时发出的“咕咚”声而得名，它是中国独创的美食，历史悠久，是一种老少皆宜的食物。
+
+        典型的火锅食材包括各种肉类、海鲜类、蔬菜类、豆制品类、菌菇类、蛋类制品等，将其放入煮开的清水或特制的高汤锅底烫熟后食用，有些吃法还会蘸上调味料一起食用。</p>
+    <span class="highlight">关于火锅的起源，有两种说法：一种说是在中国三国时期或魏文帝时代，那时的“铜鼎”，就是火锅的前身；另一种说是火锅始于东汉，出土文物中的“斗”就是指火锅。可见火锅在中国已有1900多年的历史了。
+
+        《魏书》记载，三国时代，曹丕代汉称帝时期，已有用铜所制的火锅出现，人们使用火锅煮用来涮猪、牛、羊、鸡、鱼等各种肉食，但当时并不流行，后来随着烹调技术进一步的发展，各式的火锅也相继闪亮登场。到北宋时代，汴京开封的酒馆，冬天已有火锅应市。到了清朝末期民国初期，在全国已形成了几十种不同的火锅而且各具特色。日本室町时代，火锅从中国传入日本是在一三三八年。日本称火锅为“寿喜烧（すきやき）”又称“锄烧”。如今火锅还传到美国、法国、英国等国家。
+        
+        火锅，古称“古董羹”，因投料入沸水时发出的“咕咚”声而得名。它是中国独创的美食，历史悠久。据考证，解放后出土的东汉文物“镬斗”，即为火锅。到宋朝，火锅的食法在民间已常见，南宋林洪的《山家清供》食谱中，便有其同友人吃火锅的介绍。</span>
+<a href="https://baike.sogou.com/v2705869.htm?fromTitle=%E7%81%AB%E9%94%85">点击进入</a><p></p>
+姓名：郭泽慷<p></p>
+    学号：201916180110 <p></p>
+    前一位：叶双201916180109<p></p>
+    后一位：赵戈201916180111<p></p>
+
+</body>
+</html>
